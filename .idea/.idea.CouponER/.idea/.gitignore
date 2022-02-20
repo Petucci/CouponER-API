@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.CouponER.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\Users\Petan\Desktop\Personal projects\CouponER\CouponER-API\.idea\.idea.CouponER\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
